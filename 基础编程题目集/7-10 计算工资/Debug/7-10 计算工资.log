@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(459,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (7.10 计算工资.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  7-10计算工资.cpp
+C:\Users\GK\Desktop\homework\基础编程题目集\7-10 计算工资\7-10计算工资.cpp(11,19): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\GK\Desktop\homework\基础编程题目集\7-10 计算工资\7-10计算工资.cpp(21,19): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\GK\Desktop\homework\基础编程题目集\7-10 计算工资\7-10计算工资.cpp(31,15): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  7-10 计算工资.vcxproj -> C:\Users\GK\Desktop\homework\基础编程题目集\基础编程题目集（共38题）\Debug\7-10 计算工资.exe

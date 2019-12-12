@@ -1,0 +1,4 @@
+﻿  7-11 分段计算居民水费.cpp
+C:\Users\GK\Desktop\homework\基础编程题目集\7-11 分段计算居民水费\7-11 分段计算居民水费.cpp(9,15): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\GK\Desktop\homework\基础编程题目集\7-11 分段计算居民水费\7-11 分段计算居民水费.cpp(13,13): warning C4244: “=”: 从“unsigned int”转换到“float”，可能丢失数据
+  7-11 分段计算居民水费.vcxproj -> C:\Users\GK\Desktop\homework\基础编程题目集\基础编程题目集（共38题）\Debug\7-11 分段计算居民水费.exe
