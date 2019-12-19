@@ -1,0 +1,5 @@
+﻿  7-13 日K蜡烛图.cpp
+C:\Users\GK\Desktop\homework\PAT----\基础编程题目集\7-13 日K蜡烛图\7-13 日K蜡烛图.cpp(6,13): warning C4477: “scanf_s”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“float *”
+C:\Users\GK\Desktop\homework\PAT----\基础编程题目集\7-13 日K蜡烛图\7-13 日K蜡烛图.cpp(6,13): warning C4477: “scanf_s”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 2 拥有了类型“float *”
+C:\Users\GK\Desktop\homework\PAT----\基础编程题目集\7-13 日K蜡烛图\7-13 日K蜡烛图.cpp(6,13): warning C4477: “scanf_s”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 3 拥有了类型“float *”
+  7-13 日K蜡烛图.vcxproj -> C:\Users\GK\Desktop\homework\PAT----\基础编程题目集\基础编程题目集（共38题）\Debug\7-13 日K蜡烛图.exe
