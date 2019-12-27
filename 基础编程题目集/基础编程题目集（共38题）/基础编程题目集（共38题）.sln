@@ -51,6 +51,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "7-19 支票面额", "..\7-1
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "7-21 求特殊方程的正整数解", "..\7-21 求特殊方程的正整数解\7-21 求特殊方程的正整数解.vcxproj", "{E457EDF4-AE62-47AB-8CCC-A1164FD82384}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "7-27 冒泡法排序", "..\7-27 冒泡法排序\7-27 冒泡法排序.vcxproj", "{FED1C864-3B6F-4F0B-AF7F-55362E150548}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -251,6 +253,14 @@ Global
 		{E457EDF4-AE62-47AB-8CCC-A1164FD82384}.Release|x64.Build.0 = Release|x64
 		{E457EDF4-AE62-47AB-8CCC-A1164FD82384}.Release|x86.ActiveCfg = Release|Win32
 		{E457EDF4-AE62-47AB-8CCC-A1164FD82384}.Release|x86.Build.0 = Release|Win32
+		{FED1C864-3B6F-4F0B-AF7F-55362E150548}.Debug|x64.ActiveCfg = Debug|x64
+		{FED1C864-3B6F-4F0B-AF7F-55362E150548}.Debug|x64.Build.0 = Debug|x64
+		{FED1C864-3B6F-4F0B-AF7F-55362E150548}.Debug|x86.ActiveCfg = Debug|Win32
+		{FED1C864-3B6F-4F0B-AF7F-55362E150548}.Debug|x86.Build.0 = Debug|Win32
+		{FED1C864-3B6F-4F0B-AF7F-55362E150548}.Release|x64.ActiveCfg = Release|x64
+		{FED1C864-3B6F-4F0B-AF7F-55362E150548}.Release|x64.Build.0 = Release|x64
+		{FED1C864-3B6F-4F0B-AF7F-55362E150548}.Release|x86.ActiveCfg = Release|Win32
+		{FED1C864-3B6F-4F0B-AF7F-55362E150548}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
